@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oprah14/-levent-kocoglu.git"
+    "url": "git+https://github.com/NightCoderP/-levent-kocoglu.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oprah14/-levent-kocoglu/issues"
+    "url": "https://github.com/NightCoderP/-levent-kocoglu/issues"
   },
-  "homepage": "https://github.com/oprah14/-levent-kocoglu#readme",
+  "homepage": "https://github.com/NightCoderP/-levent-kocoglu#readme",
   "dependencies": {
     "base-64": "^1.0.0",
     "body-parser": "^2.2.0",
